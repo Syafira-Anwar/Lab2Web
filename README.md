@@ -30,4 +30,6 @@ Langkah 2: Membuat Halaman Utama (index.html)
 Buat file index.html dan gabungkan elemen Semantic HTML serta Multimedia.
 <img width="1091" height="921" alt="image" src="https://github.com/user-attachments/assets/e09c7ba4-a6ad-4daf-a0ce-1b2886274c30" />
 <img width="1126" height="926" alt="image" src="https://github.com/user-attachments/assets/e7c4df93-eb92-4dc7-8f08-268fc33cea04" />
+<img width="1196" height="406" alt="image" src="https://github.com/user-attachments/assets/76a7dc92-5bc6-4c41-8616-8720d791161e" />
+
 
