@@ -2,7 +2,7 @@ Panduan Praktikum HTML Lanjutan
 
 Dokumen ini berisi panduan langkah-demi-langkah pengerjaan praktikum web dasar yang mencakup Semantic HTML, Multimedia (Audio & Video), serta Proyek Mini Form Biodata Mahasiswa.
 
-📁 Structure Directory Project
+ Structure Directory Project
 
 Sebelum memulai, siapkan struktur folder dan file pada direktori kerja Anda sebagai berikut:
 
@@ -15,7 +15,7 @@ praktikum-2-html-lanjutan/
     └── video.mp4
 
 
-🚀 Langkah-Langkah Pengerjaan
+Langkah-Langkah Pengerjaan
 
 Langkah 1: Menyiapkan File Multimedia
 
